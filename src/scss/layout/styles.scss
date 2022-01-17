@@ -8,7 +8,7 @@
     /* hide radio inputs */
     .rating__input {
         display: none;
-        position: relative;
+        
     }
     
     /* set icon padding and size */
@@ -18,13 +18,16 @@
         font-size: 32px;
         height: 30px;
         width: 30px;
-      
+        position: relative;
 
         &::after {
             pointer-events: none;
             color: #ccc;
             content: "\2B51";
             position: absolute;
+            height: 30px;
+            width: 30px;
+            left: 0;
         }
     }
     
