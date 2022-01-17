@@ -1,4 +1,4 @@
-# FRONTEND DEVELOPMENT TEMPLATE
+# STAR-RATING WITH FULL STARS
 
 
 This is basic template for frontend development. In this template for SASS, 7-1 pattern is used.
